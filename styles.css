@@ -489,7 +489,7 @@ html {
   top: 6%;
   width: 60%;
   height: 85%;
-  background: linear-gradient(rgba(255, 255, 255, .6), rgba(255, 255, 255, .6)), url(./images/MacBook/macbook-1-desktop.png) center no-repeat;
+  background: linear-gradient(rgba(255, 255, 255, .6), rgba(255, 255, 255, .6)), url(macbook-1-desktop.png) center no-repeat;
   z-index: -1;
   opacity: 0;
 }
